@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/svillato/liri-node-app/issues"
   },
-  "homepage": "https://github.com/svillato/liri-node-app#readme"
+  "homepage": "https://github.com/svillato/liri-node-app#readme",
+  "dependencies": {
+    "omdb-api-client": "^2.0.1",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  }
 }
